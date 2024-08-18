@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>
   <a href="https://www.linkedin.com/in/abdul-rehman-shahid-a03019324/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 34px; height: 24px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 50px; height: 50px;"/>
   </a>
 </p>
 
